@@ -1,0 +1,3 @@
+[submodule "FortiWeb-Advanced-Threat-Lab"]
+	path = FortiWeb-Advanced-Threat-Lab
+	url = https://github.com/SecDevOps-jmcdonough/FortiWeb-Advanced-Threat-Lab.git

@@ -1,3 +1,6 @@
 [submodule "FortiWeb-Advanced-Threat-Lab"]
 	path = FortiWeb-Advanced-Threat-Lab
 	url = https://github.com/SecDevOps-jmcdonough/FortiWeb-Advanced-Threat-Lab.git
+[submodule "technical-recipe-azure-sdwan"]
+	path = technical-recipe-azure-sdwan
+	url = https://github.com/SecDevOps-jmcdonough/technical-recipe-azure-sdwan.git
